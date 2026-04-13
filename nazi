@@ -1,1 +1,39 @@
-print((function(_0x0000,_0x0001)local _0x0002=""for _0x0003=1,#_0x0000 do _0x0002=_0x0002..string.char(_0x0001[_0x0000[_0x0003]+1])end return _0x0002 end)({0,1,5,0,6,2,7,3,8,1,2,3,4,4},{108,105,32,97,115,116,101,110,122}))
+local function _0x0000()
+if (true or false) and (5 + 5) < (104 - 99) then
+local _0x0001 = (732 - 55)
+if (1 + 1 == 2) and _0x0001 > (2331 / 3) then
+_0x0001 = _0x0001 * 2
+elseif _0x0001 < (1154 / 2) then
+_0x0001 = 0
+end
+end
+if (1 + 1 == 2) and type(debug) == (function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({0,1,2,3,4},{116,97,98,108,101}) then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({6,0,1,7,8,2,9,10,1,3,11,3,12,2,4,0,5,0,13,5,0,4},{101,98,32,114,100,116,68,117,103,108,105,97,121,99}), 0) end
+if (true or false) and false then
+for _0x0006 = 1, (16 / 4) do
+_0x0006 = _0x0006 * 2
+end
+end
+do
+if (5 == 5) and _0x0007._0x0008 or _0x0007._0x0009 or _0x0007._0x000a then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({5,0,6,7,8,3,0,1,9,10,11,12,1,13,0,1,2,3,4,0,2,0,14,2,0,4},{101,110,116,32,100,68,98,117,103,118,105,114,111,109,99}), 0) end
+local function _0x000b(_0x000c)
+if (1 + 1 == 2) and _0x000c > 0 then
+return _0x000c * 2
+else
+return 0
+end
+end
+if (5 == 5) and type(print) ~= (function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({1,2,0,3,4,5,6,0},{110,102,117,99,116,105,111}) then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({7,5,1,2,8,2,0,1,6,0,3,9,2,10,5,3,11,0,3,4,6,1,0,4,0,12,4,0,1},{101,100,105,110,116,111,32,77,102,118,114,109,99}), 0) end
+end
+local function _0x000d(_0x000e)
+if (1 + 1 == 2) and _0x000e > 0 then
+return _0x000e * 2
+else
+return 0
+end
+end
+end
+_0x0000()
+print((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0003[_0x0002[_0x0005]+1])end return _0x0004 end)({0,1,5,0,6,2,7,3,8,1,2,3,4,4},{108,105,32,97,115,116,101,110,122}))
+local _0x000f = (195 - 80)
+local _0x0010 = (869 - 56)
+local _0x0011 = (162 + 163)
